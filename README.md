@@ -5,8 +5,7 @@ Este es un proyecto de una Pokédex desarrollada con React que consume datos de 
 ## Características
 
 - Consulta a la PokeAPI cada 30 segundos para obtener un Pokémon aleatorio.
-- Muestra una cuenta regresiva para indicar el tiempo que falta para la próxima consulta.
-- Almacena y muestra la información del Pokémon, incluyendo su nombre, imagen, habilidades, experiencia base y más.
+- Muestra la información del Pokémon, incluyendo su nombre, imagen, habilidades, experiencia base y más.
 
 ## Tecnologías utilizadas
 
