@@ -32,7 +32,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 3. **Inicia la aplicación:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     La aplicación estará disponible en http://localhost:3000.
